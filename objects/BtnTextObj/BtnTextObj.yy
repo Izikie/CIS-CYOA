@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"BtnYesObj",
+  "%Name":"BtnTextObj",
   "eventList":[],
   "managed":true,
-  "name":"BtnYesObj",
+  "name":"BtnTextObj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"BtnParentObj",
-    "path":"objects/BtnParentObj/BtnParentObj.yy",
+    "name":"BtnObj",
+    "path":"objects/BtnObj/BtnObj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"BtnSprite",
-    "path":"sprites/BtnSprite/BtnSprite.yy",
+    "name":"BtnTextSprite",
+    "path":"sprites/BtnTextSprite/BtnTextSprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
