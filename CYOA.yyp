@@ -42,12 +42,11 @@
   "resources":[
     {"id":{"name":"ButtonText","path":"fonts/ButtonText/ButtonText.yy",},},
     {"id":{"name":"BtnObj","path":"objects/BtnObj/BtnObj.yy",},},
-    {"id":{"name":"BtnTextObj","path":"objects/BtnTextObj/BtnTextObj.yy",},},
     {"id":{"name":"RoomBegin","path":"rooms/RoomBegin/RoomBegin.yy",},},
     {"id":{"name":"RoomEndCredit","path":"rooms/RoomEndCredit/RoomEndCredit.yy",},},
     {"id":{"name":"RoomMainMenu","path":"rooms/RoomMainMenu/RoomMainMenu.yy",},},
     {"id":{"name":"BtnSprite","path":"sprites/BtnSprite/BtnSprite.yy",},},
-    {"id":{"name":"BtnTextSprite","path":"sprites/BtnTextSprite/BtnTextSprite.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"SpriteEndBg","path":"sprites/SpriteEndBg/SpriteEndBg.yy",},},
     {"id":{"name":"SpriteMainMenuBg","path":"sprites/SpriteMainMenuBg/SpriteMainMenuBg.yy",},},
   ],
