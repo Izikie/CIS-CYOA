@@ -42,11 +42,12 @@
   "resources":[
     {"id":{"name":"ButtonText","path":"fonts/ButtonText/ButtonText.yy",},},
     {"id":{"name":"BtnObj","path":"objects/BtnObj/BtnObj.yy",},},
+    {"id":{"name":"RoomBadEnd","path":"rooms/RoomBadEnd/RoomBadEnd.yy",},},
     {"id":{"name":"RoomBegin","path":"rooms/RoomBegin/RoomBegin.yy",},},
-    {"id":{"name":"RoomEndCredit","path":"rooms/RoomEndCredit/RoomEndCredit.yy",},},
+    {"id":{"name":"RoomGoodEnd","path":"rooms/RoomGoodEnd/RoomGoodEnd.yy",},},
     {"id":{"name":"RoomMainMenu","path":"rooms/RoomMainMenu/RoomMainMenu.yy",},},
     {"id":{"name":"BtnSprite","path":"sprites/BtnSprite/BtnSprite.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"CreditSprite","path":"sprites/CreditSprite/CreditSprite.yy",},},
     {"id":{"name":"SpriteEndBg","path":"sprites/SpriteEndBg/SpriteEndBg.yy",},},
     {"id":{"name":"SpriteMainMenuBg","path":"sprites/SpriteMainMenuBg/SpriteMainMenuBg.yy",},},
   ],
@@ -55,7 +56,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"RoomMainMenu","path":"rooms/RoomMainMenu/RoomMainMenu.yy",},},
     {"roomId":{"name":"RoomBegin","path":"rooms/RoomBegin/RoomBegin.yy",},},
-    {"roomId":{"name":"RoomEndCredit","path":"rooms/RoomEndCredit/RoomEndCredit.yy",},},
+    {"roomId":{"name":"RoomBadEnd","path":"rooms/RoomBadEnd/RoomBadEnd.yy",},},
+    {"roomId":{"name":"RoomGoodEnd","path":"rooms/RoomGoodEnd/RoomGoodEnd.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
