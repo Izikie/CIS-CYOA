@@ -1,5 +1,4 @@
 draw_self()
-
 draw_set_font(ButtonText)
 
 x_pos = x - 65
