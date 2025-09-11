@@ -25,14 +25,14 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"background",
-    "path":"folders/Sprites/background.yy",
+    "name":"end",
+    "path":"folders/Sprites/background/end.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"BadEndBg",
     "autoRecord":true,
     "backdropHeight":768,

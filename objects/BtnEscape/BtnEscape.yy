@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"BtnExitObj",
+  "%Name":"BtnEscape",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BtnExitObj",
+  "name":"BtnEscape",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objects/menu.yy",
+    "name":"grab",
+    "path":"folders/Objects/content/grab/jump/grab.yy",
   },
   "parentObjectId":{
     "name":"BtnObj",

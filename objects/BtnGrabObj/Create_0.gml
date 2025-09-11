@@ -1,4 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-text = "Exit";
+next_room = RoomFallEnd;
+text = "Grab";
