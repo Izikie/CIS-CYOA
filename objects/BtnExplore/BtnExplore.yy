@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "BtnExplore",
   "spriteId": {
-    "name": "BtnSprite",
-    "path": "sprites/BtnSprite/BtnSprite.yy",
+    "name": "BtnSpriteCollider",
+    "path": "sprites/BtnSpriteCollider/BtnSpriteCollider.yy",
   },
   "solid": false,
   "visible": true,
